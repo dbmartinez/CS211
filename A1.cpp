@@ -563,8 +563,8 @@ string DoDecCrypt(string word, string crypt)
       {
         if(key[Index] == letter)
         {
-	  	  decIndex = Index;
-	      break;
+	  decIndex = Index;
+	  break;
         }
       }
 
