@@ -1,9 +1,3 @@
-// Daniel Martinez
-// marti931@cougars.csusm.edu
-// Assignment 2
-// CS 211
-// Professor: Dr. Ahmad R. Hadaegh
-// Due Date: October 31, 2019   
 
 /**************************************
 * The Dictionary.h file will hold all *
