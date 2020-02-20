@@ -1,10 +1,3 @@
-// Assignment 1
-// author: Daniel B. Martinez
-// email: marti931@cougars.csusm.edu
-// Prof. Ahmad Hadaegh
-// CS 211
-// Due Date: 10/08/2019
-
 /*******************************************************
 * The purpose of this assignment is to encrypt/decrypt *
 * of a text file. The first part will be encrypting a  * 
