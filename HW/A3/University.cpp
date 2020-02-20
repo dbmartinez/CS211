@@ -1,7 +1,3 @@
-// Author: Daniel Martinez
-// Email: marti931@cougars.csusm.edu
-// Date Written: 12/01/2019 - 12/04/2019
-// Due Date: 12/05/2019
 // University.cpp
 
 #ifndef UNIVERSITY_CPP
