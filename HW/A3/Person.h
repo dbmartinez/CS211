@@ -1,7 +1,3 @@
-// Author: Daniel Martinez
-// Email: marti931@cougars.csusm.edu
-// Date Written: 11/29/2019
-// Due Date: 12/05/2019  
 // Person.h
 
 #ifndef PERSON_H
